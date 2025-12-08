@@ -1,5 +1,5 @@
 # AAE3004-LabCode-for-Group-1-2025
-# -------------------------------------------------------------------
+# --------------------------------------------------------------
 
 This is the GitHub page for saving the code written by members from 2025-AAE3004-labwork-Group 1 from Hong Kong PolyU
 
