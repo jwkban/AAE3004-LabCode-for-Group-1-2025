@@ -28,3 +28,4 @@ msg.Angular.Z=0.0;
 send(pub,msg)
 
 statistics(rate);
+
