@@ -7,7 +7,8 @@ Lab codes are consistent of 3 different folders where involve two sites test and
   
   Lab focus is on PD lidar robot trajectory performance variation with effect of different gain value used 
   
-  https://www.youyeetoo.com/products/raspberry-pi-ros-robot-car?srsltid=AfmBOooB2sxhEaPr-7hQbZ2ajIA_2Ycw4_lSInH0j6hJn1dr9egCs04O
+  ![Uploading 屏幕截图 2025-12-09 193904.png…]()
+
 
 
 One folder are for lab running Algorithm derivation purpose 
