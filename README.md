@@ -6,6 +6,9 @@ This is the GitHub page for saving the code written by members from 2025-AAE3004
 Lab codes are consistent of 3 different folders where involve two sites test and one checkpoint test 
   
   Lab focus is on PD lidar robot trajectory performance variation with effect of different gain value used 
+  
+  https://www.youyeetoo.com/products/raspberry-pi-ros-robot-car?srsltid=AfmBOooB2sxhEaPr-7hQbZ2ajIA_2Ycw4_lSInH0j6hJn1dr9egCs04O
+
 
 One folder are for lab running Algorithm derivation purpose 
 
